@@ -1,5 +1,5 @@
 # Memory-Royale
-A cross-platform card memory game with 3 levels, gpahics and sound effects.
+A cross-platform card memory game with 3 levels, graphics and sound effects.
 
 ![Alt Text](https://github.com/Steve-Shambles/Memory-Royale/blob/main/screenshot-memory_royale_1.png)
 
